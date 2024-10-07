@@ -1,0 +1,20 @@
+Televisore
+{
+	string Marca;
+	string Modello;
+	int Consumo;
+	int Dimensione;
+	int Prezzo;
+	bool Stato;
+	int Canale_Corrente;
+	int Nuovo_Canale;
+	int Volume_Corrente;
+	int Nuovo_Volume;
+
+	void Accendi() {...}
+	void Spegni() {...}
+	void Cambia_Canale() {...}
+	void Aumenta_Diminuisci_Canale() {...}
+	void Alza_Abbassa_Volume() {...}
+	void CambiaVolume() {...}
+}
