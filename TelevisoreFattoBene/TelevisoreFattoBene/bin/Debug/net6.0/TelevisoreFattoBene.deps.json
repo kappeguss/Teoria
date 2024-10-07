@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TelevisoreFattoBene/1.0.0": {
+        "runtime": {
+          "TelevisoreFattoBene.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TelevisoreFattoBene/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

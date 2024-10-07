@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\TelevisoreFattoBene\TelevisoreFattoBene\bin\Debug\net6.0\TelevisoreFattoBene.exe
+C:\Users\user\source\repos\TelevisoreFattoBene\TelevisoreFattoBene\bin\Debug\net6.0\TelevisoreFattoBene.deps.json
+C:\Users\user\source\repos\TelevisoreFattoBene\TelevisoreFattoBene\bin\Debug\net6.0\TelevisoreFattoBene.runtimeconfig.json
+C:\Users\user\source\repos\TelevisoreFattoBene\TelevisoreFattoBene\bin\Debug\net6.0\TelevisoreFattoBene.dll
+C:\Users\user\source\repos\TelevisoreFattoBene\TelevisoreFattoBene\bin\Debug\net6.0\TelevisoreFattoBene.pdb
+C:\Users\user\source\repos\TelevisoreFattoBene\TelevisoreFattoBene\obj\Debug\net6.0\TelevisoreFattoBene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TelevisoreFattoBene\TelevisoreFattoBene\obj\Debug\net6.0\TelevisoreFattoBene.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TelevisoreFattoBene\TelevisoreFattoBene\obj\Debug\net6.0\TelevisoreFattoBene.AssemblyInfo.cs
+C:\Users\user\source\repos\TelevisoreFattoBene\TelevisoreFattoBene\obj\Debug\net6.0\TelevisoreFattoBene.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TelevisoreFattoBene\TelevisoreFattoBene\obj\Debug\net6.0\TelevisoreFattoBene.dll
+C:\Users\user\source\repos\TelevisoreFattoBene\TelevisoreFattoBene\obj\Debug\net6.0\refint\TelevisoreFattoBene.dll
+C:\Users\user\source\repos\TelevisoreFattoBene\TelevisoreFattoBene\obj\Debug\net6.0\TelevisoreFattoBene.pdb
+C:\Users\user\source\repos\TelevisoreFattoBene\TelevisoreFattoBene\obj\Debug\net6.0\TelevisoreFattoBene.genruntimeconfig.cache
+C:\Users\user\source\repos\TelevisoreFattoBene\TelevisoreFattoBene\obj\Debug\net6.0\ref\TelevisoreFattoBene.dll
